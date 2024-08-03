@@ -1,0 +1,66 @@
+{
+  "node": {
+    "0218bb1510862dcc5075fec18da04e7990162b90": {
+      "workers": {
+        "app/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cuser%5C%5CDesktop%5C%5CArchive%20(3)%5C%5Csrc%5C%5Clib%5C%5Capi.ts%22%2C%5B%22getAllUser%22%2C%22%24%24ACTION_1%22%2C%22addUser%22%2C%22getUserByUsername%22%2C%22%24%24ACTION_0%22%2C%22%24%24ACTION_2%22%5D%5D%5D&__client_imported__=!",
+        "app/add/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cuser%5C%5CDesktop%5C%5CArchive%20(3)%5C%5Csrc%5C%5Clib%5C%5Capi.ts%22%2C%5B%22getAllUser%22%2C%22%24%24ACTION_1%22%2C%22addUser%22%2C%22getUserByUsername%22%2C%22%24%24ACTION_0%22%2C%22%24%24ACTION_2%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/page": "rsc",
+        "app/add/page": "action-browser"
+      }
+    },
+    "294caea322e15ac8a60dd39e367321ff90a8463f": {
+      "workers": {
+        "app/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cuser%5C%5CDesktop%5C%5CArchive%20(3)%5C%5Csrc%5C%5Clib%5C%5Capi.ts%22%2C%5B%22getAllUser%22%2C%22%24%24ACTION_1%22%2C%22addUser%22%2C%22getUserByUsername%22%2C%22%24%24ACTION_0%22%2C%22%24%24ACTION_2%22%5D%5D%5D&__client_imported__=!",
+        "app/add/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cuser%5C%5CDesktop%5C%5CArchive%20(3)%5C%5Csrc%5C%5Clib%5C%5Capi.ts%22%2C%5B%22getAllUser%22%2C%22%24%24ACTION_1%22%2C%22addUser%22%2C%22getUserByUsername%22%2C%22%24%24ACTION_0%22%2C%22%24%24ACTION_2%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/page": "rsc",
+        "app/add/page": "action-browser"
+      }
+    },
+    "5266299e80662d393b3f4c08ac38d2a45fa8f6df": {
+      "workers": {
+        "app/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cuser%5C%5CDesktop%5C%5CArchive%20(3)%5C%5Csrc%5C%5Clib%5C%5Capi.ts%22%2C%5B%22getAllUser%22%2C%22%24%24ACTION_1%22%2C%22addUser%22%2C%22getUserByUsername%22%2C%22%24%24ACTION_0%22%2C%22%24%24ACTION_2%22%5D%5D%5D&__client_imported__=!",
+        "app/add/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cuser%5C%5CDesktop%5C%5CArchive%20(3)%5C%5Csrc%5C%5Clib%5C%5Capi.ts%22%2C%5B%22getAllUser%22%2C%22%24%24ACTION_1%22%2C%22addUser%22%2C%22getUserByUsername%22%2C%22%24%24ACTION_0%22%2C%22%24%24ACTION_2%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/page": "rsc",
+        "app/add/page": "action-browser"
+      }
+    },
+    "7e1ee40c2ea0426f7a2381a8fa5d10e16820b5c3": {
+      "workers": {
+        "app/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cuser%5C%5CDesktop%5C%5CArchive%20(3)%5C%5Csrc%5C%5Clib%5C%5Capi.ts%22%2C%5B%22getAllUser%22%2C%22%24%24ACTION_1%22%2C%22addUser%22%2C%22getUserByUsername%22%2C%22%24%24ACTION_0%22%2C%22%24%24ACTION_2%22%5D%5D%5D&__client_imported__=!",
+        "app/add/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cuser%5C%5CDesktop%5C%5CArchive%20(3)%5C%5Csrc%5C%5Clib%5C%5Capi.ts%22%2C%5B%22getAllUser%22%2C%22%24%24ACTION_1%22%2C%22addUser%22%2C%22getUserByUsername%22%2C%22%24%24ACTION_0%22%2C%22%24%24ACTION_2%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/page": "rsc",
+        "app/add/page": "action-browser"
+      }
+    },
+    "b1cd84b2f89c127759a8920ea1c2074f17576187": {
+      "workers": {
+        "app/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cuser%5C%5CDesktop%5C%5CArchive%20(3)%5C%5Csrc%5C%5Clib%5C%5Capi.ts%22%2C%5B%22getAllUser%22%2C%22%24%24ACTION_1%22%2C%22addUser%22%2C%22getUserByUsername%22%2C%22%24%24ACTION_0%22%2C%22%24%24ACTION_2%22%5D%5D%5D&__client_imported__=!",
+        "app/add/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cuser%5C%5CDesktop%5C%5CArchive%20(3)%5C%5Csrc%5C%5Clib%5C%5Capi.ts%22%2C%5B%22getAllUser%22%2C%22%24%24ACTION_1%22%2C%22addUser%22%2C%22getUserByUsername%22%2C%22%24%24ACTION_0%22%2C%22%24%24ACTION_2%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/page": "rsc",
+        "app/add/page": "action-browser"
+      }
+    },
+    "befbbaa0ebe46d1070614d56d89a59b4e4a03a36": {
+      "workers": {
+        "app/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cuser%5C%5CDesktop%5C%5CArchive%20(3)%5C%5Csrc%5C%5Clib%5C%5Capi.ts%22%2C%5B%22getAllUser%22%2C%22%24%24ACTION_1%22%2C%22addUser%22%2C%22getUserByUsername%22%2C%22%24%24ACTION_0%22%2C%22%24%24ACTION_2%22%5D%5D%5D&__client_imported__=!",
+        "app/add/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cuser%5C%5CDesktop%5C%5CArchive%20(3)%5C%5Csrc%5C%5Clib%5C%5Capi.ts%22%2C%5B%22getAllUser%22%2C%22%24%24ACTION_1%22%2C%22addUser%22%2C%22getUserByUsername%22%2C%22%24%24ACTION_0%22%2C%22%24%24ACTION_2%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/page": "rsc",
+        "app/add/page": "action-browser"
+      }
+    }
+  },
+  "edge": {},
+  "encryptionKey": "2BXtBqlurRq3Swue1MFxbs8s0cH/gJ7H7jyMyBgrssA="
+}
